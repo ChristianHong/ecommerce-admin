@@ -18,7 +18,7 @@ The **E-Commerce Admin Dashboard** is a streamlined web application for managing
 
 **Backend**: Node.js, Express.js
 
-**Database**: MongoDB / PostgreSQL (specify which one)
+**Database**: MongoDB
 
 **Authentication**: JWT
 
